@@ -7,9 +7,8 @@ def jalan(z):
         sys.stdout.write(x)
         sys.stdout.flush()
         time.sleep(00000.1)
-
+os.system('git pull https://github.com/khalid-bx/voic')
 os.system('clear')
-
 print("""\033[1;35m
 ──────────────────
 ──────────────────
